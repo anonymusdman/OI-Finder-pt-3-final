@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.one{
+    font-size: large;
+    text-align: center;
+    color: snow;
+}
+canvas{
+    box-shadow: 5px 5px 5px sienna;
+}
